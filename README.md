@@ -15,4 +15,4 @@ es相关工具为es的搭建过程 及相关工具
 3. 访问 http://127.0.0.1:9100 (讲es的9200 换成 9900 ，点击连接)
 
 4.cmd进入 D:\java\logstash-7.5.1   目录下 执行bin\logstash.bat -f mysqletc\mysql.conf命令，在http://127.0.0.1:9100页面，连接的9900端口，点击
-数据浏览，即可看见刚刚同步的mysql数据的索引；
+数据浏览，即可看见刚刚同步的mysql数据的索引（cmscontent）；
