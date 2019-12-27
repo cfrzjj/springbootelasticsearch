@@ -16,3 +16,7 @@ es相关工具为es的搭建过程 及相关工具
 
 4.cmd进入 D:\java\logstash-7.5.1   目录下 执行bin\logstash.bat -f mysqletc\mysql.conf命令，在http://127.0.0.1:9100页面，连接的9900端口，点击
 数据浏览，即可看见刚刚同步的mysql数据的索引（cmscontent）；
+5.在本地新建数据库 eladmin
+导入失去了文件（建百度网盘链接）
+链接：https://pan.baidu.com/s/1vgggUV8IRo1gMrUptesYZQ 
+提取码：fu1m
